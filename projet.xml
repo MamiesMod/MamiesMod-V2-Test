@@ -1,12 +1,11 @@
-<?xml version="1.0"?><?xml version="1.0"?> 
+<?xml version="2.0"?>
 <sharpUpdate> 
     <update> 
-        <version>4.0.0.0</version> 
+        <version>5.0.0.0</version> 
         <url>https://github.com/nt-games-ytb/MamiesMod-V2/blob/master/MamiesMod%20by%20nt%20games.exe?raw=true</url> 
         <filePath>./MamiesMod V1</filePath>
         <md5></md5>
         <description></description> 
         <launchArgs></launchArgs> 
     </update>
-    <update> 
 </sharpUpdate>
