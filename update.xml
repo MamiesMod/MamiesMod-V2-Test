@@ -1,0 +1,11 @@
+<?xml version="1.0"?> 
+<sharpUpdate> 
+    <update appID="MamiesMod V1"> 
+        <version>3.0.0.0</version> 
+        <url>https://github.com/nt-games-ytb/MamiesMod-V2/blob/master/MamiesMod%20by%20nt%20games.exe?raw=true</url> 
+        <fileName>./TestApp.exe</filePath>
+        <md5>0AB5B1B0C67E1ADA01D383DE36ED487C</md5>
+        <description>test</description> 
+        <launchArgs></launchArgs> 
+    </update>
+</sharpUpdate>
